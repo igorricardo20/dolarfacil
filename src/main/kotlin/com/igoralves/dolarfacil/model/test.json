@@ -1,0 +1,26 @@
+[
+  {
+    "itens": [
+      {
+        "emissor": {
+          "emissorCnpj": "17.192.451",
+          "emissorNome": "Banco Itaucard S.A."
+        },
+        "historicoTaxas": [
+          {
+            "taxaTipoGasto": "Crédito",
+            "taxaData": "2022-05-01",
+            "taxaConversao": 5.2000,
+            "taxaDivulgacaoDataHora": "2022-05-01T23:59:28Z"
+          },
+          {
+            "taxaTipoGasto": "Crédito",
+            "taxaData": "2022-04-30",
+            "taxaConversao": 5.2000,
+            "taxaDivulgacaoDataHora": "2022-04-30T23:59:28Z"
+          }
+        ]
+      }
+    ]
+  }
+]
